@@ -1,4 +1,4 @@
-<img src="assets/cow.jpg">
+<a href="https://www.youtube.com/watch?v=w8HdOHrc3OQ"><img src="assets/cow.jpg"></a>
 
 <a href="https://app.hackthebox.com/profile/436295"><image src="https://www.hackthebox.eu/badge/image/436295" alt="Hack The Box" style="max-width: 256px; display: inline"></a>
 <a href="https://tryhackme.com/p/nostromosec"><image src="https://raw.githubusercontent.com/mischaduebendorfer/mischaduebendorfer/main/assets/thm_propic.png" style="max-width: 256px; display: inline"></a>
