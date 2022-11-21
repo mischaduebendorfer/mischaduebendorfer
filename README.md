@@ -1,4 +1,5 @@
 <image src="https://www.hackthebox.eu/badge/image/436295" alt="Hack The Box" style="max-width: 256px; display: inline">
+![tryhackme stats](https://raw.githubusercontent.com/mischaduebendorfer/mischaduebendorfer/master/assets/thm_propic.png)
 
 <!--
 **mischaduebendorfer/mischaduebendorfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
